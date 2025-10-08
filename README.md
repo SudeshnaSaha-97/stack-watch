@@ -17,8 +17,9 @@ This project demonstrates containerization, observability, and infrastructure-as
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/portone-devops-assignment.git
-   cd portone-devops-assignment
+   git clone https://github.com/SudeshnaSaha-97/stack-watch.git
+   cd stack-watch
+
 
 ---
 
